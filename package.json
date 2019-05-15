@@ -1,0 +1,35 @@
+{
+  "name": "sidious",
+  "displayName": "Sidious",
+  "description": "Dark and bloody powerful. Vic Sidious' Official VS Code theme.",
+  "version": "6.6.9",
+  "publisher": "sidiousvic",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidiousvic/sidious-vscode-theme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Hacker Theme",
+    "Red Theme",
+    "Cool Theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "icon": "vicsidious-skull-logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sidious",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sidious-color-theme.json"
+      }
+    ]
+  }
+}
