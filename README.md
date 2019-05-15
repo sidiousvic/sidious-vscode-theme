@@ -4,6 +4,10 @@
 
 Dark and bloody powerful. [Vic Sidious](https://www.vicsidious.com)' Official VS Code theme. 💥
 
+![Detail](sidious-theme-detail.jpg)
+![Example 1](example-1.jpg)
+![Example 2](example-2.jpg)
+
 # Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
