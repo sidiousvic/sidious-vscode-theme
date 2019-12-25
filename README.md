@@ -1,8 +1,10 @@
-# Sidious 🍕
+# Sidious 💀 🍕 🧬
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/sidiousvic.sidious.svg)](#)
 
-Dark and bloody powerful. [Vic Sidious](https://www.vicsidious.com)' Official VS Code theme. 💥
+Dark and bloody pro.
+
+By [sidiousvic](sidiousvic.dev)
 
 # Installation
 
@@ -20,6 +22,4 @@ If you find any wicked things, please [file an issue](https://github.com/sidious
 
 Special thanks to [Sarah Drasner](https://github.com/sdras) for her [tutorial](https://css-tricks.com/creating-a-vs-code-theme/) on VS Code theme creation.
 
-![Detail](sidious-theme-detail.jpg)
-![Example 1](example-1.png)
-![Example 2](example-2.png)
+![Detail](sidious-theme.png)

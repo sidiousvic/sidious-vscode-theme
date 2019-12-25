@@ -1,8 +1,8 @@
 {
-  "name": "sidious",
+  "name": "Sidious",
   "displayName": "Sidious",
   "description": "Dark and bloody powerful. Vic Sidious' Official VS Code theme.",
-  "version": "6.6.67",
+  "version": "6.6.68",
   "publisher": "sidiousvic",
   "license": "SEE LICENSE IN LICENSE.md",
   "engines": {
@@ -22,7 +22,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "vicsidious-skull-logo.png",
+  "icon": "sidiouspro.png",
   "contributes": {
     "themes": [
       {
