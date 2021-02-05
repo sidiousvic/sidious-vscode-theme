@@ -1,25 +1,23 @@
-# Sidious 💀 🍕 🧬
+## 🎉 🔥 📟 😈 Sidious Party Theme Pack 
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/sidiousvic.sidious.svg)](#)
+By [sidiousvic](sidious.pizza)
 
-Dark and bloody pro.
+### `DARKLORD`
+![](DARKLORD.png)
 
-By [sidiousvic](sidiousvic.dev)
+### `PHANTOM`
+![](PHANTOM.png)
 
-# Installation
+## 💾 Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
 3.  Choose **Extensions**
-4.  Search for `sidious`
+4.  Search for `sidious party`
 5.  Click **Install**
 6.  Click **Reload**
-7.  Set your theme to **Sidious**
+7.  Set your theme to **`PHANTOM`** or **`DARKLORD`**
 
-# Notes
+## 🐛 Bugs
 
 If you find any wicked things, please [file an issue](https://github.com/sidiousvic/sidious-vscode-theme/issues).
-
-Special thanks to [Sarah Drasner](https://github.com/sdras) for her [tutorial](https://css-tricks.com/creating-a-vs-code-theme/) on VS Code theme creation.
-
-![Detail](sidious-theme.png)

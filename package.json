@@ -1,8 +1,8 @@
 {
-  "name": "sidious",
-  "displayName": "Sidious",
-  "description": "Dark and bloody powerful. Vic Sidious' Official VS Code theme.",
-  "version": "6.8.4",
+  "name": "sidious-party-themes",
+  "displayName": "Sidious Party Theme Pack",
+  "description": "Vic Sidious's Official VS Code theme pack.",
+  "version": "7.0.91",
   "publisher": "sidiousvic",
   "license": "SEE LICENSE IN LICENSE.md",
   "engines": {
@@ -14,21 +14,28 @@
   },
   "keywords": [
     "Theme",
-    "Dark Theme",
-    "Hacker Theme",
-    "Red Theme",
-    "Cool Theme"
+    "Dark",
+    "Hacker",
+    "Red",
+    "Cool",
+    "Green",
+    "Sidious"
   ],
   "categories": [
     "Themes"
   ],
-  "icon": "sidiouspro.png",
+  "icon": "sidious-party-logo.png",
   "contributes": {
     "themes": [
       {
-        "label": "Sidious",
+        "label": "PHANTOM",
         "uiTheme": "vs-dark",
-        "path": "./themes/Sidious-color-theme.json"
+        "path": "./themes/PHANTOM-color-theme.json"
+      },
+      {
+        "label": "DARKLORD",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DARKLORD-color-theme.json"
       }
     ]
   }

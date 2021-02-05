@@ -1,5 +1,5 @@
 {
-  "name": "Sidious",
+  "name": "PHANTOM",
   "type": "dark",
   "colors": {
     "activityBar.background": "#0e0e0e",
@@ -48,6 +48,7 @@
     "pickerGroup.foreground": "#f8185b",
     "scrollbarSlider.background": "#583bff8f",
     "sideBar.background": "#16171a",
+    "menu.background": "#ff0000",
     "sideBar.foreground": "#757575",
     "sideBar.border": "#16171a",
     "sideBar.dropBackground": "#111111",
@@ -62,7 +63,7 @@
     "terminal.background": "#16171a",
     "textLink.activeForeground": "#f8185b",
     "textLink.foreground": "#f8185b"
-    //"activityBar.dropBorder": "#3d3d3d",
+    // "activityBar.dropBorder": "#3d3d3d",
     //"activityBar.inactiveForeground": "#3d3d3d66",
     //"badge.background": "#4d4d4d",
     //"badge.foreground": "#ffffff",
