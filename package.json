@@ -6,7 +6,7 @@
   "publisher": "sidiousvic",
   "license": "SEE LICENSE IN LICENSE.md",
   "engines": {
-    "vscode": "^1.33.0"
+    "vscode": "^1.4.0"
   },
   "repository": {
     "type": "git",
