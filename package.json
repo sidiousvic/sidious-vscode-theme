@@ -28,14 +28,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "PHANTOM",
-        "uiTheme": "vs-dark",
-        "path": "./themes/PHANTOM-color-theme.json"
-      },
-      {
         "label": "DARKLORD",
         "uiTheme": "vs-dark",
         "path": "./themes/DARKLORD-color-theme.json"
+      },
+      {
+        "label": "PHANTOM",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PHANTOM-color-theme.json"
       }
     ]
   }
